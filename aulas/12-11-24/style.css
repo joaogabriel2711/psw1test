@@ -1,0 +1,35 @@
+body {
+background-color: bisque;
+}
+
+
+.cabecalho {
+background-color: rgb(122, 122, 122);
+display: flex;
+justify-content: space-between;
+padding: 50px;
+}
+
+#c1 {
+    background-color: aliceblue;
+}
+
+#c2 {
+background-color: antiquewhite;
+}
+
+#c3 {
+    background-color: azure;
+}
+
+
+
+.meio {
+    background-color: rgb(177, 176, 175);
+    display: flex;
+    justify-content: space-around;
+    padding: 200px;
+}
+
+
+
